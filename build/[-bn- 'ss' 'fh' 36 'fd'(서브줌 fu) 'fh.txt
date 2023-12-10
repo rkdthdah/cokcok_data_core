@@ -1,0 +1,5 @@
+[-bn- 'ss' 'fh' 36 'fd'(서브줌 fu?) 'fh' 50 'fh' 'bd' 61 'fd'(서브줌 fu?) 'ss' 'fh' 'fu' 'bn' 85 'ss' 'fh' 'bn'(?) 100 'fu' 'fd'(서브줌 fu?) 110 'bn' 'bn' 125 'ls' 'bu'(뭔지 모르겠지만 백이긴 함) 'fd'(서브줌 fu?) 135 'fu' 'bd' 148 'ls' 'bd'(fd) 'fu'(fh) 'bd'(ls?) 'fu'(fd) 175 (fd) 'fu' 'bd'   'ls' 'fd' 'bn' 'fu'(서브줌) 195 'fd'(fp) 'fd'(fn) 206 'ss' 'fh'(삑사리)]
+
+148 ls fd fd(fh) 160 ls fd 175 fd fd bd(bn) 185 fu(fn) 공중에 휘두름(fd)
+
+ 28ss 시작 - 1458

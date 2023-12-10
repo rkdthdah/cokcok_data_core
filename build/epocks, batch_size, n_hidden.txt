@@ -1,0 +1,36 @@
+epocks, batch_size, n_hidden
+
+100 16 32
+Epoch 98/100
+23/23 [==============================] - 0s 5ms/step - loss: 1.2843 - accuracy: 0.5710 - val_loss: 1.8781 - val_accuracy: 0.3250
+Epoch 99/100
+23/23 [==============================] - 0s 5ms/step - loss: 1.2831 - accuracy: 0.5738 - val_loss: 1.8943 - val_accuracy: 0.2750
+Epoch 100/100
+23/23 [==============================] - 0s 5ms/step - loss: 1.3172 - accuracy: 0.5515 - val_loss: 1.8927 - val_accuracy: 0.3000
+
+
+200 32 64
+Epoch 179/200
+12/12 [==============================] - 0s 8ms/step - loss: 0.2936 - accuracy: 0.9053 - val_loss: 1.1506 - val_accuracy: 0.6750
+Epoch 180/200
+12/12 [==============================] - 0s 8ms/step - loss: 0.3620 - accuracy: 0.8802 - val_loss: 1.1373 - val_accuracy: 0.6750
+Epoch 181/200
+12/12 [==============================] - 0s 8ms/step - loss: 0.2670 - accuracy: 0.9248 - val_loss: 1.1112 - val_accuracy: 0.6750
+
+
+200 32 128
+Epoch 96/200
+12/12 [==============================] - 0s 10ms/step - loss: 0.1869 - accuracy: 0.9610 - val_loss: 1.1293 - val_accuracy: 0.6500
+Epoch 97/200
+12/12 [==============================] - 0s 10ms/step - loss: 0.1797 - accuracy: 0.9694 - val_loss: 0.9675 - val_accuracy: 0.7000
+Epoch 98/200
+12/12 [==============================] - 0s 11ms/step - loss: 0.1704 - accuracy: 0.9694 - val_loss: 0.9745 - val_accuracy: 0.7000
+
+
+lstm + dropout0.4 + lstm(nhidden/2) + dropout0.4 + sigmoid === SharpFlow
+Epoch 18/200
+10/10 [==============================] - 0s 19ms/step - loss: 0.1670 - accuracy: 0.9781 - val_loss: 0.5160 - val_accuracy: 0.8625
+Epoch 19/200
+10/10 [==============================] - 0s 18ms/step - loss: 0.1342 - accuracy: 0.9937 - val_loss: 0.6008 - val_accuracy: 0.8250
+Epoch 20/200
+10/10 [==============================] - 0s 18ms/step - loss: 0.1329 - accuracy: 0.9781 - val_loss: 0.5169 - val_accuracy: 0.8750
