@@ -50,3 +50,14 @@
  #
 ### 3. 각 스윙 점수 산출   
 분류된 각 스윙에 대한 스윙 점수 산출은 IMU 데이터 스윙 분석과 같은 방법으로 진행하였다. 이를 위해 기 존재하는 하이클리어 뿐만 아니라 12개 모든 스윙의 전문가 데이터를 수집∙활용함이 마땅하나, 수집 환경 제한으로 아마추어 스윙 데이터를 대신 사용하였다. 또한 기존 방법의 분석 결과 해석은 하이클리어에 특화되어 있기에, 이 부분은 생략되었다.
+
+---   
+
+깃헙 링크   
+---
+코어 로직   
+https://github.com/rkdthdah/cokcok_data_core   
+   
+데이터 수집용 안드로이드 및 스마트 워치 앱   
+https://github.com/rkdthdah/smart-phone-app-for-testing   
+https://github.com/rkdthdah/smart-watch-app-for-testing   
